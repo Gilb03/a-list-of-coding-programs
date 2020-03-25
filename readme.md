@@ -69,3 +69,8 @@
 ## Illinois
 
  [Brave Initiatives](https://www.braveinitiatives.com/)
+ [The Difference Engine](https://www.thedifferenceengine.io/)
+ [Eight Bot](https://www.eightbot.com/)
+ [Tandem](https://madeintandem.com/careers/#singlepage!apprenticeship-program!about)
+ [Digital Bridge](http://www.dbridgesolutions.com/)
+ [8th Light](https://8thlight.com/apprenticeship/)
