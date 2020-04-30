@@ -10,6 +10,8 @@
  [Khan Academy](https://www.khanacademy.org/)  
  [Processing Foundation](https://processingfoundation.org/)  
  [The New Boston](https://thenewboston.com/videos.php)  
+ [Udemy] (https://www.udemy.com/)
+ [Udemy] (https://www.udemy.com/user/coltsteele/)
 
 ## Multi-Location
 
